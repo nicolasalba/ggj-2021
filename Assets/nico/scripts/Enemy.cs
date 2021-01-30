@@ -6,7 +6,7 @@ public class Enemy : MovableEntity
 {
     [SerializeField] Player playerToFollow;
 
-    void Start()
+    new void Start()
     {
         
     }
@@ -14,6 +14,6 @@ public class Enemy : MovableEntity
     void Update()
     {
         Vector2 distance = playerToFollow.transform.position - gameObject.transform.position;
-        moveHorizontal(distance.x);
+        MoveHorizontal(distance.x);
     }
 }
