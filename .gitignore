@@ -24,6 +24,7 @@ Assets/Wwise/Deployment/Plugins/iOS/
 # Visual Studio cache directory
 .vs/
 .vscode/
+.vsconfig
 
 # Gradle cache directory
 .gradle/
