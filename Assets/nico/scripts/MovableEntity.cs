@@ -8,11 +8,13 @@ public class MovableEntity : MonoBehaviour
     [SerializeField] float jumpSpeed = 400;
     Rigidbody2D body;
     bool canJump = true;
-    void Start()
+
+    public virtual void Start()
     {
         body = gameObject.GetComponent<Rigidbody2D>();
     }
-    public void jump(bool jumpPressed)
+
+    public void Jump(bool jumpPressed)
     {
         if (jumpPressed && canJump)
         {
@@ -21,7 +23,7 @@ public class MovableEntity : MonoBehaviour
         }
     }
 
-    public void moveHorizontal(float horizontal)
+    public virtual void MoveHorizontal(float horizontal)
     {
         Vector2 scale = gameObject.transform.localScale;
         if (horizontal < 0)
