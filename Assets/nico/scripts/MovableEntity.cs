@@ -6,23 +6,24 @@ public class MovableEntity : MonoBehaviour
 {
     [SerializeField] float speed = 1;
     [SerializeField] float jumpSpeed = 400;
-    Rigidbody2D playerBody;
+    Rigidbody2D body;
     bool canJump = true;
     void Start()
     {
-        playerBody = gameObject.GetComponent<Rigidbody2D>();
+        body = gameObject.GetComponent<Rigidbody2D>();
     }
     public void jump(bool jumpPressed)
     {
         if (jumpPressed && canJump)
         {
-            playerBody.AddForce(Vector2.up * jumpSpeed);
+            body.AddForce(Vector2.up * jumpSpeed);
             canJump = false;
         }
     }
 
     public void moveHorizontal(float horizontal)
     {
+        Vector2 scale = gameObject.transform.localScale;
         if (horizontal < 0)
         {
             gameObject.transform.localScale = new Vector2(-1, 1);
@@ -38,4 +39,5 @@ public class MovableEntity : MonoBehaviour
     {
         canJump = collision.transform.tag.Equals("ground");
     }
+
 }
