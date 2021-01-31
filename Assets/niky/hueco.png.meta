@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: c7c0a55537917dc4396dfe7162a48b4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7974460394211719812
+    second: hueco_0
+  - first:
+      213: -4045463541295802047
+    second: hueco_1
+  - first:
+      213: -197850392504847391
+    second: hueco_2
+  - first:
+      213: -4423964957452104988
+    second: hueco_3
+  - first:
+      213: -3211135300034218192
+    second: hueco_4
+  - first:
+      213: -5545781263355852955
+    second: hueco_5
+  - first:
+      213: 2064869146345904275
+    second: hueco_6
+  - first:
+      213: 6970109531076608179
+    second: hueco_7
+  - first:
+      213: -8503509686728759138
+    second: hueco_8
+  - first:
+      213: 5938029399594841503
+    second: hueco_9
+  - first:
+      213: -2379214469240084756
+    second: hueco_10
+  - first:
+      213: -1373461214804071023
+    second: hueco_11
+  - first:
+      213: 1346454944566946025
+    second: hueco_12
+  - first:
+      213: 1629922805025436279
+    second: hueco_13
+  - first:
+      213: -4900908018660181135
+    second: hueco_14
+  - first:
+      213: -4929955813301085051
+    second: hueco_15
+  - first:
+      213: 5692699975987592500
+    second: hueco_16
+  - first:
+      213: -4211775708186083077
+    second: hueco_17
+  - first:
+      213: -1601399823717671358
+    second: hueco_18
+  - first:
+      213: 1503507290588673070
+    second: hueco_19
+  - first:
+      213: 8441458580506775025
+    second: hueco_20
+  - first:
+      213: -8723649940270486615
+    second: hueco_21
+  - first:
+      213: -1524456208765450996
+    second: hueco_22
+  - first:
+      213: 6151734004439896164
+    second: hueco_23
+  - first:
+      213: 5725277730638662129
+    second: hueco_24
+  - first:
+      213: -6783222686878313028
+    second: hueco_25
+  - first:
+      213: 4715105727686289803
+    second: hueco_26
+  - first:
+      213: 4742049900601099238
+    second: hueco_27
+  - first:
+      213: 5613450888143868769
+    second: hueco_28
+  - first:
+      213: 4296581440019749538
+    second: hueco_29
+  - first:
+      213: -8334132975311352041
+    second: hueco_30
+  - first:
+      213: 7813750418990698019
+    second: hueco_31
+  - first:
+      213: 5600862811499201473
+    second: hueco_32
+  - first:
+      213: 3149115265941346321
+    second: hueco_33
+  - first:
+      213: -5608108643279158330
+    second: hueco_34
+  - first:
+      213: 5536847700976909914
+    second: hueco_35
+  - first:
+      213: -4061299578228751553
+    second: hueco_36
+  - first:
+      213: -1563208457362022795
+    second: hueco_37
+  - first:
+      213: -6116182640637180764
+    second: hueco_38
+  - first:
+      213: -7174992506819886942
+    second: hueco_39
+  - first:
+      213: 1152794928403440694
+    second: hueco_40
+  - first:
+      213: -8596059142075312119
+    second: hueco_41
+  - first:
+      213: 9049321570585079280
+    second: hueco_42
+  - first:
+      213: 2530821454406905409
+    second: hueco_43
+  - first:
+      213: -8074539054316535714
+    second: hueco_44
+  - first:
+      213: -7531849743616307358
+    second: hueco_45
+  - first:
+      213: -418601659140189979
+    second: hueco_46
+  - first:
+      213: 7532602159842494739
+    second: hueco_47
+  - first:
+      213: 5903719357526370993
+    second: hueco_48
+  - first:
+      213: 6205830527592307409
+    second: hueco_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hueco_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 802
+        width: 336
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a39606a79faae60800000000000000
+      internalID: 7974460394211719812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1007
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149154dc750abd7c0800000000000000
+      internalID: -4045463541295802047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1041
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3b314cd18114df0800000000000000
+      internalID: -197850392504847391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 999
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea8a447f4bea92c0800000000000000
+      internalID: -4423964957452104988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1016
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373ebb3571cf63d0800000000000000
+      internalID: -3211135300034218192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_5
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 876
+        width: 329
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56748a3e25d6903b0800000000000000
+      internalID: -5545781263355852955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_6
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 633
+        width: 275
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989c976c83e7ac10800000000000000
+      internalID: 2064869146345904275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_7
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1004
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c26570bdcab060800000000000000
+      internalID: 6970109531076608179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 979
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9860725ef67df980800000000000000
+      internalID: -8503509686728759138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_9
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 973
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953da4274e186250800000000000000
+      internalID: 5938029399594841503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 945
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a97cbb055bfed0800000000000000
+      internalID: -2379214469240084756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_11
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 950
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da3d25d4c70fce0800000000000000
+      internalID: -1373461214804071023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_12
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 906
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e82bf463a19fa210800000000000000
+      internalID: 1346454944566946025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_13
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 887
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77279dcc726ae9610800000000000000
+      internalID: 1629922805025436279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 815
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b75e68f1a7cfbb0800000000000000
+      internalID: -4900908018660181135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 216
+        width: 721
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c11ddce47459bb0800000000000000
+      internalID: -4929955813301085051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_16
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 223
+        width: 135
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d7d998778800f40800000000000000
+      internalID: 5692699975987592500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_17
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 714
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf003ffee44cc85c0800000000000000
+      internalID: -4211775708186083077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_18
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 691
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e5feb485fa6c9e0800000000000000
+      internalID: -1601399823717671358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 552
+        width: 303
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e247fb43ae78dd410800000000000000
+      internalID: 1503507290588673070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_20
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 579
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd874daad5162570800000000000000
+      internalID: 8441458580506775025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_21
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 575
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abe155699e5fe680800000000000000
+      internalID: -8723649940270486615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 566
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0585e0b72b08dae0800000000000000
+      internalID: -1524456208765450996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 565
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d457db795f5550800000000000000
+      internalID: 6151734004439896164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 563
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f90c2f13c5447f40800000000000000
+      internalID: 5725277730638662129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_25
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 307
+        width: 261
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55f34c7e62dd1a0800000000000000
+      internalID: -6783222686878313028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_26
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 478
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89a6297dab6f6140800000000000000
+      internalID: 4715105727686289803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_27
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 456
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3418892452fc140800000000000000
+      internalID: 4742049900601099238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_28
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 444
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1639ae767dbf6ed40800000000000000
+      internalID: 5613450888143868769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_29
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad9e03e0680ab30800000000000000
+      internalID: 4296581440019749538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_30
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 431
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f82bf0736375c80800000000000000
+      internalID: -8334132975311352041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_31
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 407
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e00876b94007c60800000000000000
+      internalID: 7813750418990698019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 329
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c30b1b6d034abd40800000000000000
+      internalID: 5600862811499201473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 377
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118913f46a7e3bb20800000000000000
+      internalID: 3149115265941346321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 380
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34c87e6eefb22b0800000000000000
+      internalID: -5608108643279158330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_35
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 161
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eba2806a5d6dc40800000000000000
+      internalID: 5536847700976909914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_36
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 363
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f334b312d8d53a7c0800000000000000
+      internalID: -4061299578228751553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_37
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 364
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57edc05b03e5e4ae0800000000000000
+      internalID: -1563208457362022795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_38
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 342
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a409631b44fe1ba0800000000000000
+      internalID: -6116182640637180764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_39
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 333
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a049ec645e4d6c90800000000000000
+      internalID: -7174992506819886942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_40
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 319
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634eb5e21ec8fff00800000000000000
+      internalID: 1152794928403440694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_41
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 312
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081a5011c9a4b880800000000000000
+      internalID: -8596059142075312119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 258
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde009e506a59d70800000000000000
+      internalID: 9049321570585079280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_43
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 234
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6cd334b84f1320800000000000000
+      internalID: 2530821454406905409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_44
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 8
+        width: 404
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c176c28971ff80800000000000000
+      internalID: -8074539054316535714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_45
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 160
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f022a409e797790800000000000000
+      internalID: -7531849743616307358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e05f844204d03af0800000000000000
+      internalID: -418601659140189979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_47
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 84
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31980c341cd298860800000000000000
+      internalID: 7532602159842494739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bae4f6f9793ee150800000000000000
+      internalID: 5903719357526370993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hueco_49
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da1a652cf98f1650800000000000000
+      internalID: 6205830527592307409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
