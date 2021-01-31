@@ -5,6 +5,8 @@ using UnityEngine;
 public class Enemy : MovableEntity
 {
     [SerializeField] Player playerToFollow;
+    [SerializeField] float distanceToFollow;
+    bool follow = false;
 
     new void Start()
     {
@@ -14,6 +16,13 @@ public class Enemy : MovableEntity
     void Update()
     {
         Vector2 distance = playerToFollow.transform.position - gameObject.transform.position;
-        MoveHorizontal(distance.x);
+        if (!follow && distance.magnitude <= distanceToFollow)
+        {
+            follow = true;
+        }
+        if (follow)
+        {
+            MoveHorizontal(distance.x);
+        }
     }
 }

@@ -5,6 +5,7 @@ using UnityEngine;
 public class enemigoPapa : MonoBehaviour
 {
     public float vel = -1f;
+    [SerializeField]float velY = -1f;
     Rigidbody2D rgb;
 
 
@@ -17,7 +18,7 @@ public class enemigoPapa : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector2 v = new Vector2(vel, 0);
+        Vector2 v = new Vector2(vel, velY);
         rgb.velocity = v;
     }
 

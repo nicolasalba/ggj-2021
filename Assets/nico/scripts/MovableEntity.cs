@@ -17,13 +17,9 @@ public class MovableEntity : MonoBehaviour
     public virtual void MoveHorizontal(float horizontal)
     {
         Vector2 scale = gameObject.transform.localScale;
-        if (horizontal < 0)
+        if (horizontal < 0 && scale.x > 0 || horizontal > 0 && scale.x < 0)
         {
-            gameObject.transform.localScale = new Vector2(-0.7f, 0.7f);
-        }
-        else if (horizontal > 0)
-        {
-            gameObject.transform.localScale = new Vector2(0.7f, 0.7f);
+            gameObject.transform.localScale = new Vector2(-scale.x, scale.y);
         }
         gameObject.transform.Translate(new Vector2(horizontal, 0) * speed * Time.deltaTime);
     }
