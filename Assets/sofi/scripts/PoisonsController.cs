@@ -18,7 +18,7 @@ public class PoisonsController : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other) {
         if(other.transform.CompareTag("Poison")) {
             poisonCount++;
-            poisonTxt = $"x{poisonCount}";
+            poisonTxt.text = $"x{poisonCount}";
             Destroy(other.gameObject);
         }
     }
