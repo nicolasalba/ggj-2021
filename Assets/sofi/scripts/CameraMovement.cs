@@ -10,7 +10,10 @@ public class CameraMovement : MonoBehaviour
 
     void Update()
     {
-        float posX = player.transform.position.x + 4f;
-        transform.position = new Vector3(posX, transform.position.y, transform.position.z);
+        if (player)
+        {
+            float posX = player.transform.position.x + 4f;
+            transform.position = new Vector3(posX, transform.position.y, transform.position.z);
+        }
     }
 }
