@@ -23,7 +23,14 @@ public class enemigoPapa : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Flip();
+        if(other.gameObject.CompareTag("Wall"))
+        {
+            Flip();
+        }
+        else if(other.gameObject.CompareTag("Mob"))
+        {
+            Physics2D.IgnoreCollision(other, GetComponent<Collider2D>());
+        }
     }
 
     void Flip()

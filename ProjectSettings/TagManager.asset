@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - ground
+  - Poison
+  - Mob
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -50,4 +53,7 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 2575062159
+    locked: 0
+  - name: UI
+    uniqueID: 4219607005
     locked: 0

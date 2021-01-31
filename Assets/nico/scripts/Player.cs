@@ -46,6 +46,6 @@ public class Player : MovableEntity
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        canJump = collision.transform.tag.Equals("ground");
+        canJump = collision.gameObject.CompareTag("ground") || collision.gameObject.CompareTag("Wall");
     }
 }
